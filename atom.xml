@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>xianxian&#39;s blog</title>
+  
+  
+  <link href="https://patokeni.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://patokeni.github.io/"/>
+  <updated>2021-05-06T14:07:46.998Z</updated>
+  <id>https://patokeni.github.io/</id>
+  
+  <author>
+    <name>xianxian</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RPG服务器建设阶段性报告(2020-11-16~2020-12-06)</title>
+    <link href="https://patokeni.github.io/2020/12/06/RPG%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BB%BA%E8%AE%BE%E9%98%B6%E6%AE%B5%E6%80%A7%E6%8A%A5%E5%91%8A-2020-11-16-2020-12-06/"/>
+    <id>https://patokeni.github.io/2020/12/06/RPG%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BB%BA%E8%AE%BE%E9%98%B6%E6%AE%B5%E6%80%A7%E6%8A%A5%E5%91%8A-2020-11-16-2020-12-06/</id>
+    <published>2020-12-06T13:57:01.000Z</published>
+    <updated>2021-05-06T14:07:46.998Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;/br&gt;
+
+&lt;h4 id=&quot;服务器进度&quot;&gt;&lt;a href=&quot;#服务器进度&quot; class=&quot;headerlink&quot; title=&quot;服务器进度:  &quot;&gt;&lt;/a&gt;服务器进度: &lt;progress value=10 max=1000&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="RPG服务器" scheme="https://patokeni.github.io/tags/RPG%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RPG服务器建设周报第二期(2020-11-09~2020-11-16)</title>
+    <link href="https://patokeni.github.io/2020/11/16/RPG%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BB%BA%E8%AE%BE%E5%91%A8%E6%8A%A5%E7%AC%AC%E4%BA%8C%E6%9C%9F-2020-11-09-2020-11-16/"/>
+    <id>https://patokeni.github.io/2020/11/16/RPG%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BB%BA%E8%AE%BE%E5%91%A8%E6%8A%A5%E7%AC%AC%E4%BA%8C%E6%9C%9F-2020-11-09-2020-11-16/</id>
+    <published>2020-11-16T22:51:37.000Z</published>
+    <updated>2021-05-06T14:07:46.998Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;/br&gt;
+
+&lt;h4 id=&quot;服务器进度&quot;&gt;&lt;a href=&quot;#服务器进度&quot; class=&quot;headerlink&quot; title=&quot;服务器进度:  &quot;&gt;&lt;/a&gt;服务器进度: &lt;progress value=4 max=1000&gt;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="RPG服务器" scheme="https://patokeni.github.io/tags/RPG%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>RPG服务器建设阶段性报告(????-??-??~2020-11-08)</title>
+    <link href="https://patokeni.github.io/2020/11/08/RPG%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BB%BA%E8%AE%BE%E9%98%B6%E6%AE%B5%E6%80%A7%E6%8A%A5%E5%91%8A-0000-00-00-2020-11-07/"/>
+    <id>https://patokeni.github.io/2020/11/08/RPG%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%BB%BA%E8%AE%BE%E9%98%B6%E6%AE%B5%E6%80%A7%E6%8A%A5%E5%91%8A-0000-00-00-2020-11-07/</id>
+    <published>2020-11-08T08:00:35.000Z</published>
+    <updated>2021-05-06T14:07:46.998Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;/br&gt;
+
+&lt;h4 id=&quot;服务器进度&quot;&gt;&lt;a href=&quot;#服务器进度&quot; class=&quot;headerlink&quot; title=&quot;服务器进度:  &quot;&gt;&lt;/a&gt;服务器进度: &lt;progress value=1 max=1000&gt; &lt;/progress&gt;&lt;/h4&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    
+    <category term="RPG服务器" scheme="https://patokeni.github.io/tags/RPG%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World!</title>
+    <link href="https://patokeni.github.io/2020/11/07/Hello-World/"/>
+    <id>https://patokeni.github.io/2020/11/07/Hello-World/</id>
+    <published>2020-11-07T21:44:55.000Z</published>
+    <updated>2021-05-06T14:07:46.998Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;xianxian的第一篇博文-・∀・&quot;&gt;&lt;a href=&quot;#xianxian的第一篇博文-・∀・&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="随笔" scheme="https://patokeni.github.io/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
